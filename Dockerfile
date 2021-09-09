@@ -1,3 +1,4 @@
+# Add a new comment
 FROM maven:3-openjdk-11-slim AS build
 
 WORKDIR /mvn
